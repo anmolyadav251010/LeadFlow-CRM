@@ -1,0 +1,45 @@
+{
+  "node": {
+    "403a3dd45b1834fe46f98f048db886832de335da64": {
+      "workers": {
+        "app/tasks/new/page": {
+          "moduleId": 68696,
+          "async": false
+        }
+      },
+      "exportedName": "createTaskAction",
+      "filename": "app/actions.ts"
+    },
+    "40ad985b7b8f1c1e9e933a083997f36c1a627550da": {
+      "workers": {
+        "app/tasks/new/page": {
+          "moduleId": 68696,
+          "async": false
+        }
+      },
+      "exportedName": "createLeadAction",
+      "filename": "app/actions.ts"
+    },
+    "6065933f845f2fa992ff1a488419e8021a1d7a53e1": {
+      "workers": {
+        "app/tasks/new/page": {
+          "moduleId": 68696,
+          "async": false
+        }
+      },
+      "exportedName": "toggleTaskStatusAction",
+      "filename": "app/actions.ts"
+    },
+    "60b661b1e57881cc86aca65d07df3b21934f24e645": {
+      "workers": {
+        "app/tasks/new/page": {
+          "moduleId": 68696,
+          "async": false
+        }
+      },
+      "exportedName": "updateLeadStatusAction",
+      "filename": "app/actions.ts"
+    }
+  },
+  "edge": {}
+}

@@ -1,0 +1,29 @@
+1:"$Sreact.fragment"
+2:"/_next/static/chunks/1fq3oqjpxba1r.js"
+3:I[96923,["$2"],"Providers"]
+4:I[39756,["$2"],"default"]
+5:I[37457,["$2"],"default"]
+6:"/_next/static/chunks/2n5qeheznvl4u.js"
+7:I[22016,["$2","$6"],""]
+e:I[97367,["$2"],"OutletBoundary"]
+f:"$Sreact.suspense"
+12:"ViewportBoundary"
+13:I[97367,["$2"],"$12"]
+14:"MetadataBoundary"
+15:I[97367,["$2"],"$14"]
+:HL["/_next/static/chunks/0vh9nn6q6d6xw.css","style"]
+9:X
+c:X
+c:C
+d:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","main",null,{"className":"flex min-h-screen items-center justify-center bg-slate-100 px-6 py-12","children":["$","div",null,{"className":"max-w-lg rounded-3xl border border-slate-200 bg-white p-10 text-center shadow-xl","children":[["$","p",null,{"className":"text-xs font-semibold uppercase tracking-[0.24em] text-blue-600","children":"404"}],["$","h1",null,{"className":"mt-4 text-4xl font-semibold text-slate-900","children":"Page not found"}],["$","p",null,{"className":"mt-4 text-slate-600","children":"The record or route you requested is no longer available or does not exist in this workspace."}],["$","$L7",null,{"href":"/dashboard","className":"mt-6 inline-flex rounded-full bg-blue-600 px-5 py-3 text-sm font-medium text-white hover:bg-blue-500","children":"Back to dashboard"}]]}]}],[["$","script","script-0",{"src":"/_next/static/chunks/2n5qeheznvl4u.js","async":true}]],["$","$Le",null,{"children":["$","$f",null,{"name":"Next.MetadataOutlet","children":"$@10"}]}]]}],"p":"$@11","v":null,"s":"$9"}}]]
+a:[["children",{"s":"/_not-found","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@b","v":"$c","s":"$9"},"c":"$Qd"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0vh9nn6q6d6xw.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/1fq3oqjpxba1r.js","async":true}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":["$","body",null,{"className":"bg-slate-100 text-slate-900 antialiased","children":["$","$L3",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}],"notFound":[["$","main",null,{"className":"flex min-h-screen items-center justify-center bg-slate-100 px-6 py-12","children":["$","div",null,{"className":"max-w-lg rounded-3xl border border-slate-200 bg-white p-10 text-center shadow-xl","children":[["$","p",null,{"className":"text-xs font-semibold uppercase tracking-[0.24em] text-blue-600","children":"404"}],["$","h1",null,{"className":"mt-4 text-4xl font-semibold text-slate-900","children":"Page not found"}],["$","p",null,{"className":"mt-4 text-slate-600","children":"The record or route you requested is no longer available or does not exist in this workspace."}],["$","$L7",null,{"href":"/dashboard","className":"mt-6 inline-flex rounded-full bg-blue-600 px-5 py-3 text-sm font-medium text-white hover:bg-blue-500","children":"Back to dashboard"}]]}]}],[]]}]}]}]}]]}],"p":"$@8","v":null,"s":"$9"},"c":"$Qa"},"h":{"r":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L13",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L15",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$f",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"LeadFlow CRM"}],["$","meta","1",{"name":"description","content":"Modern CRM for tracking leads, sales activity, and team performance."}]]}]}],null]}],null]}],"p":"$@16","v":null,"s":"$9"}},"a":"$@17","u":"$@18","b":"N-tdjfwl_K6yngQBipQPH"}
+10:null
+9:300
+18:true
+9:C
+17:0
+b:"$undefined"
+8:"$undefined"
+16:"$undefined"
+11:"$undefined"

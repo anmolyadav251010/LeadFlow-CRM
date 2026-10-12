@@ -1,0 +1,21 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/api/auth/[...nextauth]/route": "/api/auth/[...nextauth]",
+  "/api/leads/route": "/api/leads",
+  "/api/tasks/route": "/api/tasks",
+  "/companies/page": "/companies",
+  "/contacts/page": "/contacts",
+  "/dashboard/page": "/dashboard",
+  "/leads/[id]/page": "/leads/[id]",
+  "/leads/new/page": "/leads/new",
+  "/leads/page": "/leads",
+  "/login/page": "/login",
+  "/page": "/",
+  "/reports/page": "/reports",
+  "/settings/page": "/settings",
+  "/signup/page": "/signup",
+  "/tasks/new/page": "/tasks/new",
+  "/tasks/page": "/tasks",
+  "/teams/page": "/teams"
+}

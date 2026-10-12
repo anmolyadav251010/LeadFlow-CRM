@@ -1,0 +1,60 @@
+{
+  "sorted_middleware": [],
+  "middleware": {
+    "/": {
+      "files": [
+        "server/edge/chunks/node_modules_next_dist_esm_build_templates_edge-wrapper_0h-u1c1sve-7_.js",
+        "server/edge/chunks/[root-of-the-server]__1pbiubioy9dha._.js",
+        "server/edge/chunks/turbopack-node_modules_next_dist_esm_build_templates_edge-wrapper_1r6wbwerb_ly0.js"
+      ],
+      "name": "middleware",
+      "page": "/",
+      "entrypoint": "server/edge/chunks/turbopack-node_modules_next_dist_esm_build_templates_edge-wrapper_1r6wbwerb_ly0.js",
+      "matchers": [
+        {
+          "regexp": "/:nextData(_next/data/[^/]{1,})?/dashboard/:path*{(\\.json|\\.rsc|\\.segments/.+\\.segment\\.rsc)}?",
+          "originalSource": "/dashboard/:path*"
+        },
+        {
+          "regexp": "/:nextData(_next/data/[^/]{1,})?/leads/:path*{(\\.json|\\.rsc|\\.segments/.+\\.segment\\.rsc)}?",
+          "originalSource": "/leads/:path*"
+        },
+        {
+          "regexp": "/:nextData(_next/data/[^/]{1,})?/tasks/:path*{(\\.json|\\.rsc|\\.segments/.+\\.segment\\.rsc)}?",
+          "originalSource": "/tasks/:path*"
+        },
+        {
+          "regexp": "/:nextData(_next/data/[^/]{1,})?/reports/:path*{(\\.json|\\.rsc|\\.segments/.+\\.segment\\.rsc)}?",
+          "originalSource": "/reports/:path*"
+        },
+        {
+          "regexp": "/:nextData(_next/data/[^/]{1,})?/contacts/:path*{(\\.json|\\.rsc|\\.segments/.+\\.segment\\.rsc)}?",
+          "originalSource": "/contacts/:path*"
+        },
+        {
+          "regexp": "/:nextData(_next/data/[^/]{1,})?/companies/:path*{(\\.json|\\.rsc|\\.segments/.+\\.segment\\.rsc)}?",
+          "originalSource": "/companies/:path*"
+        },
+        {
+          "regexp": "/:nextData(_next/data/[^/]{1,})?/teams/:path*{(\\.json|\\.rsc|\\.segments/.+\\.segment\\.rsc)}?",
+          "originalSource": "/teams/:path*"
+        },
+        {
+          "regexp": "/:nextData(_next/data/[^/]{1,})?/settings/:path*{(\\.json|\\.rsc|\\.segments/.+\\.segment\\.rsc)}?",
+          "originalSource": "/settings/:path*"
+        }
+      ],
+      "wasm": [],
+      "assets": [],
+      "env": {
+        "__NEXT_BUILD_ID": "N-tdjfwl_K6yngQBipQPH",
+        "NEXT_SERVER_ACTIONS_ENCRYPTION_KEY": "wW0N7QzPftElEm4xuX0eOXdRhYyiViWnx7ClEFIsnMY=",
+        "__NEXT_PREVIEW_MODE_ID": "a53ad90a9e7abb39975109bdc6e73883",
+        "__NEXT_PREVIEW_MODE_ENCRYPTION_KEY": "52e2baed71cec3abdda8f89fae4ca45a6d967dcb0c680e403ba0423b38d5ad9e",
+        "__NEXT_PREVIEW_MODE_SIGNING_KEY": "1c3cf5d918ab961e9b8ee2fe5e65a897ab9e370d347e87b4cc69b5148b7d48a1"
+      }
+    }
+  },
+  "instrumentation": null,
+  "functions": {}
+}

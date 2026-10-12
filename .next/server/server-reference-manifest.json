@@ -1,0 +1,72 @@
+{
+  "node": {
+    "403a3dd45b1834fe46f98f048db886832de335da64": {
+      "workers": {
+        "app/leads/new/page": {
+          "moduleId": 71433,
+          "async": false
+        },
+        "app/tasks/new/page": {
+          "moduleId": 68696,
+          "async": false
+        }
+      },
+      "filename": "app/actions.ts",
+      "exportedName": "createTaskAction"
+    },
+    "40ad985b7b8f1c1e9e933a083997f36c1a627550da": {
+      "workers": {
+        "app/leads/new/page": {
+          "moduleId": 71433,
+          "async": false
+        },
+        "app/tasks/new/page": {
+          "moduleId": 68696,
+          "async": false
+        }
+      },
+      "filename": "app/actions.ts",
+      "exportedName": "createLeadAction"
+    },
+    "6065933f845f2fa992ff1a488419e8021a1d7a53e1": {
+      "workers": {
+        "app/leads/new/page": {
+          "moduleId": 71433,
+          "async": false
+        },
+        "app/tasks/new/page": {
+          "moduleId": 68696,
+          "async": false
+        }
+      },
+      "filename": "app/actions.ts",
+      "exportedName": "toggleTaskStatusAction"
+    },
+    "60b661b1e57881cc86aca65d07df3b21934f24e645": {
+      "workers": {
+        "app/leads/new/page": {
+          "moduleId": 71433,
+          "async": false
+        },
+        "app/tasks/new/page": {
+          "moduleId": 68696,
+          "async": false
+        }
+      },
+      "filename": "app/actions.ts",
+      "exportedName": "updateLeadStatusAction"
+    },
+    "40aa6b528a4dd7442ae11dd0db10b4a38c6074058d": {
+      "workers": {
+        "app/signup/page": {
+          "moduleId": 55886,
+          "async": false
+        }
+      },
+      "filename": "app/auth-actions.ts",
+      "exportedName": "registerAccount"
+    }
+  },
+  "edge": {},
+  "encryptionKey": "wW0N7QzPftElEm4xuX0eOXdRhYyiViWnx7ClEFIsnMY="
+}

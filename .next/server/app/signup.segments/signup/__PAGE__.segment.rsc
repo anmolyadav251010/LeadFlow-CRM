@@ -1,0 +1,30 @@
+1:"$Sreact.fragment"
+2:"/_next/static/chunks/1fq3oqjpxba1r.js"
+3:I[96923,["$2"],"Providers"]
+4:I[39756,["$2"],"default"]
+5:I[37457,["$2"],"default"]
+6:"/_next/static/chunks/2n5qeheznvl4u.js"
+7:I[22016,["$2","$6"],""]
+f:I[97367,["$2"],"OutletBoundary"]
+10:"$Sreact.suspense"
+13:"ViewportBoundary"
+14:I[97367,["$2"],"$13"]
+15:"MetadataBoundary"
+16:I[97367,["$2"],"$15"]
+:HL["/_next/static/chunks/0vh9nn6q6d6xw.css","style"]
+9:X
+c:X
+c:C
+e:{"id":"40aa6b528a4dd7442ae11dd0db10b4a38c6074058d","bound":null}
+d:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","main",null,{"className":"flex min-h-screen items-center justify-center bg-slate-100 px-6 py-12 text-slate-900","children":["$","div",null,{"className":"w-full max-w-md rounded-3xl border border-slate-200 bg-white p-8 shadow-xl","children":[["$","div",null,{"className":"mb-8 text-center","children":[["$","p",null,{"className":"text-xs uppercase tracking-[0.28em] text-blue-600","children":"LeadFlow"}],["$","h1",null,{"className":"mt-3 text-3xl font-semibold text-slate-900","children":"Create your account"}]]}],["$","form",null,{"action":"$he","className":"space-y-5","children":[["$","div",null,{"children":[["$","label",null,{"htmlFor":"name","className":"mb-2 block text-sm font-medium text-slate-700","children":"Full name"}],["$","input",null,{"id":"name","name":"name","type":"text","placeholder":"Ava Thompson","className":"w-full rounded-xl border border-slate-300 bg-slate-50 px-3 py-2.5 text-sm text-slate-900 outline-none transition focus:border-blue-400"}]]}],["$","div",null,{"children":[["$","label",null,{"htmlFor":"email","className":"mb-2 block text-sm font-medium text-slate-700","children":"Work email"}],["$","input",null,{"id":"email","name":"email","type":"email","placeholder":"ava@leadflow.io","className":"w-full rounded-xl border border-slate-300 bg-slate-50 px-3 py-2.5 text-sm text-slate-900 outline-none transition focus:border-blue-400"}]]}],["$","div",null,{"children":[["$","label",null,{"htmlFor":"password","className":"mb-2 block text-sm font-medium text-slate-700","children":"Password"}],["$","input",null,{"id":"password","name":"password","type":"password","placeholder":"Create a secure password","className":"w-full rounded-xl border border-slate-300 bg-slate-50 px-3 py-2.5 text-sm text-slate-900 outline-none transition focus:border-blue-400"}]]}],["$","button",null,{"type":"submit","className":"flex w-full items-center justify-center rounded-xl bg-blue-600 px-4 py-3 text-sm font-semibold text-white transition hover:bg-blue-500","children":"Create account"}]]}],["$","p",null,{"className":"mt-6 text-center text-sm text-slate-600","children":["Already have an account?"," ",["$","$L7",null,{"href":"/login","className":"font-medium text-blue-600 hover:text-blue-500","children":"Sign in"}]]}]]}]}],[["$","script","script-0",{"src":"/_next/static/chunks/2n5qeheznvl4u.js","async":true}]],["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]]}],"p":"$@12","v":null,"s":"$9"}}]]
+a:[["children",{"s":"signup","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@b","v":"$c","s":"$9"},"c":"$Qd"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0vh9nn6q6d6xw.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/1fq3oqjpxba1r.js","async":true}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":["$","body",null,{"className":"bg-slate-100 text-slate-900 antialiased","children":["$","$L3",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}],"notFound":[["$","main",null,{"className":"flex min-h-screen items-center justify-center bg-slate-100 px-6 py-12","children":["$","div",null,{"className":"max-w-lg rounded-3xl border border-slate-200 bg-white p-10 text-center shadow-xl","children":[["$","p",null,{"className":"text-xs font-semibold uppercase tracking-[0.24em] text-blue-600","children":"404"}],["$","h1",null,{"className":"mt-4 text-4xl font-semibold text-slate-900","children":"Page not found"}],["$","p",null,{"className":"mt-4 text-slate-600","children":"The record or route you requested is no longer available or does not exist in this workspace."}],["$","$L7",null,{"href":"/dashboard","className":"mt-6 inline-flex rounded-full bg-blue-600 px-5 py-3 text-sm font-medium text-white hover:bg-blue-500","children":"Back to dashboard"}]]}]}],[]]}]}]}]}]]}],"p":"$@8","v":null,"s":"$9"},"c":"$Qa"},"h":{"r":["$","$1","h",{"children":[null,["$","$L14",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L16",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$10",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"LeadFlow CRM"}],["$","meta","1",{"name":"description","content":"Modern CRM for tracking leads, sales activity, and team performance."}]]}]}],null]}],null]}],"p":"$@17","v":null,"s":"$9"}},"a":"$@18","u":"$@19","b":"N-tdjfwl_K6yngQBipQPH"}
+11:null
+9:300
+19:true
+9:C
+18:0
+b:"$undefined"
+8:"$undefined"
+17:"$undefined"
+12:"$undefined"
